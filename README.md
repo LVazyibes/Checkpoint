@@ -30,7 +30,9 @@ Required packages: paramiko, tkinter
 
 ⚠️ Known Limitations & Issues
 When destination folder not choosed temporary files is not gonna be deleted
+
 Progress Field need to fixed
+
 Performance may degrade with very large logs (>10GB)
 
 Only supports .log files
