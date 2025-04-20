@@ -1,5 +1,6 @@
 Checkpoint Log Exporter v1.0 Alpha
 Application Screenshot
+https://github.com/LVazyibes/Checkpoint/blob/main/SS.PNG
 
 📥 Download
 Download Latest Release (Windows executable + Python script)
