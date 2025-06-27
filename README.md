@@ -1,6 +1,7 @@
 Checkpoint Log Exporter v1.0 Alpha
 Application Screenshot
-https://github.com/LVazyibes/Checkpoint/blob/main/SS.PNG
+![image](https://github.com/user-attachments/assets/da54a78c-91bb-4256-81e8-e393e59c5dc0)
+
 
 
 🌟 Overview
